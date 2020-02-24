@@ -1,4 +1,4 @@
-on git bash <br>
+on git bash <br> <br>
 Run the app with --> locate right folder and type : node app.js <br>
 
 For server automatically updating use the nodeman package --> install ( sudo npm install -g nodeman)
