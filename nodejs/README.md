@@ -6,4 +6,3 @@ run the app by --> nodeman app.js
 
 express folder: <br> <br>
 In the using folder --> npm install express
-To run the app globally --> nodemon app.js
